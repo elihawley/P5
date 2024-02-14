@@ -3,7 +3,7 @@
 - Martin Uribe Hernandez
 
 ## Participating in Competition?
-- No
+- Yes
 
 ## Levels as Grid
 - Selection
