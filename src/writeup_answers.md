@@ -1,9 +1,9 @@
 # Names
-- 
-- 
+- Elia Hawley
+- Martin Uribe Hernandez
 
 ## Participating in Competition?
-- 
+- No
 
 ## Levels as Grid
 - Selection
